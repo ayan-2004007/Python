@@ -88,7 +88,7 @@ def findStudent(path):
                     print(f"The student found :\nRoll :{row[0]}\nName : {row[4]}\nClass : {row[3]}\nBengali : {row[5]}\nEnglish : {row[6]}\nMaths : {row[7]}\nComputer Science : {row[8]}\nPhysics : {row[9]}\nChemistry : {row[10]}\nTotal Marks : {row[11]}")
                     return
             if not found:
-                print(f"There is no record of stduent roll no : {roll}")
+                print(f"There is no record of student roll no : {roll}")
     except Exception as e:
         print(f"Error occcured while seraching the student ; {e}")
 
@@ -98,7 +98,7 @@ def main():
     while trigger:
         try:
             print("--------------------------------------------------------")
-            choice=int(input("What do you want to do ?\n1 for show all students record\n2 for add a new student record\n3 for search any student record\n4 for delete any student record\n"))
+            choice=int(input("What do you want to do ?\n1 for show all students record\n2 for add a new student record\n3 for search any student record\n4 for delete any student record\n5 for exit\n"))
             print("--------------------------------------------------------")
             if choice==1:
                 allStudents(path)
