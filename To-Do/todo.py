@@ -2,8 +2,7 @@
 # Features :
 #     add , delete and view tasks
 #     save and load tasks using file handling
-#     Mark tasks as completed
-#     show pending and completed tasks
+#     show pending tasks
 
 
 
