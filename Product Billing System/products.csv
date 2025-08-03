@@ -1,0 +1,31 @@
+serial no,product name,company,category,price (inr),warranty (years)
+p001,ryzen 5 5600x,amd,processor,17500,3
+p002,core i5 12400f,intel,processor,16200,3
+p003,ryzen 7 5800x,amd,processor,24500,3
+p004,core i7 12700k,intel,processor,31900,3
+p005,ripjaws v 16gb ddr4,g.skill,ram,4300,2
+p006,vengeance lpx 16gb corsair,corsair,ram,4600,2
+p007,trident z rgb 32gb,g.skill,ram,8400,2
+p008,rtx 3060 12gb,zotac,graphic card,27500,3
+p009,rtx 4060 ti 8gb,msi,graphic card,38500,3
+p010,radeon rx 6700xt,sapphire,graphic card,35500,3
+p011,b550m ds3h,gigabyte,motherboard,8600,3
+p012,b660m pro-vh,msi,motherboard,9600,3
+p013,h510m h v3,asrock,motherboard,5900,3
+p014,prime b450m-a ii,asus,motherboard,7200,3
+p015,ant esports ice 200tg,ant esports,cabinet,3300,1
+p016,nzxt h510,nzxt,cabinet,6200,1
+p017,circle gaming phoenix,circle,cabinet,5400,1
+p018,hyper 212 black edition,cooler master,cpu air cooler,2900,2
+p019,ak400 digital,deepcool,cpu air cooler,3500,2
+p020,deepcool ag400,deepcool,cpu air cooler,2400,2
+p021,liquid freezer ii 240,arctic,aio,7800,6
+p022,h100i rgb platinum,corsair,aio,9200,5
+p023,ls520 se,deepcool,aio,6200,5
+p024,wd blue 1tb,western digital,hard disk,3300,2
+p025,seagate barracuda 2tb,seagate,hard disk,4600,2
+p026,toshiba p300 1tb,toshiba,hard disk,3100,2
+p027,samsung 980 1tb,samsung,nvme,6700,5
+p028,crucial p3 500gb,crucial,nvme,3100,5
+p029,wd black sn770 1tb,western digital,nvme,7500,5
+p030,kingston nv2 1tb,kingston,nvme,5800,5
