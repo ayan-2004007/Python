@@ -202,7 +202,7 @@ def main():
     while trigger:
         try:
             print("====================================================================================================")
-            choice=int(input("What do you want to do ?\n1 for see all contacts\n2 for search any contact\n3 for add a new contact\n4 for update any contact\n5 for delete any contact\n"))
+            choice=int(input("What do you want to do ?\n1 for see all contacts\n2 for search any contact\n3 for add a new contact\n4 for update any contact\n5 for delete any contact\n6 for exit"))
             print("====================================================================================================")
             if choice==1:
                 allContacts(path)
@@ -214,6 +214,8 @@ def main():
                 updateSupport(path)
             elif choice==5:
                 deleteContact(path)
+            elif choice==6:
+                trigger=False
             else:
                 print("Invalid input ! Choose a valid option")
         except Exception as e:
