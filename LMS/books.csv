@@ -1,0 +1,7 @@
+id,title,author,availability
+101,python crash course,eric matthes,yes
+102,introduction to ai,norvig,yes
+104,modern operating systems,tanenbaum,no
+110,digital circuits and design,s. salivahanan,yes
+103,data structures in c,samiran,yes
+109,computer organization and architecture,stallings,yes
