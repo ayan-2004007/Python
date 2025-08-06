@@ -24,8 +24,15 @@ It includes both logic-building exercises and real-world applications — gradua
 [To Do List](./To-Do/)<br>
 
 
+## Working with public APIs
+<small>Hands-on practice with public APIs and JSON data handling.</small>
+
+[Weather App CLI](./API/Weather%20CLI/)<br>
+[Github Profile Analyzer](./API/Github%20Analyzer/)<br>
 
 
+
+<br>
 
 ```
 This is part of my Python learning journey toward AI/ML.
