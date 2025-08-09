@@ -9,12 +9,13 @@ It includes both logic-building exercises and real-world applications — gradua
 [Guess The Number game](./guessTheNumber.py)<br>
 [Guess The Word game](./GuessTheWord.py)<br>
 [Password Checker](./passwordChecker.py)<br>
-[Simple Quiz](./Quiz.py)
+[Simple Random Quiz System](./Quiz.py)
 
 
 ## File Management Projects (CLI)
 <small>Practice of file handing (`.csv`, `.txt`,`.json`)</small>
 
+[Banking System CLI](./Banking%20System%20CLI/)<br>
 [Contact Book](./Contact%20Book/)<br>
 [Library Management System](./LMS/)<br>
 [Password Management System](./Password%20Manager/)<br>
@@ -29,7 +30,7 @@ It includes both logic-building exercises and real-world applications — gradua
 
 [Weather App CLI](./API/Weather%20CLI/)<br>
 [Github Profile Analyzer](./API/Github%20Analyzer/)<br>
-
+[Online News CLI](./API/Online%20News%20CLI/)<br>
 
 
 <br>
