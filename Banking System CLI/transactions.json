@@ -1,0 +1,63 @@
+[
+    {
+        "transactionId": "T0001",
+        "custmerId": "C001",
+        "type": "wihtdrawl",
+        "amount": 5000.0,
+        "date": "2025-08-05"
+    },
+    {
+        "transaction_id": "T0002",
+        "custmerId": "C003",
+        "type": "deposit",
+        "amount": 5000.0,
+        "date": "2025-07-21"
+    },
+    {
+        "transaction_id": "T0003",
+        "customerId": "C003",
+        "type": "deposit",
+        "amount": 15000.0,
+        "date": "2025-08-08"
+    },
+    {
+        "transactionId": "T5874",
+        "customerId": "C001",
+        "type": "deposit",
+        "amount": 2000,
+        "date": "2025-08-08",
+        "time": "11:29:50.290112"
+    },
+    {
+        "transactionId": "T7472",
+        "customerId": "C001",
+        "type": "withdrawl",
+        "amount": 5000,
+        "date": "2025-08-08",
+        "time": "11:43:43.726188"
+    },
+    {
+        "transactionId": "T5485",
+        "customerId": "C001",
+        "type": "deposit",
+        "amount": 2500,
+        "date": "2025-08-08",
+        "time": "11:55:01.716546"
+    },
+    {
+        "transactionId": "T6237",
+        "customerId": "C001",
+        "type": "deposit",
+        "amount": 500,
+        "date": "2025-08-08",
+        "time": "12:02:08.542303"
+    },
+    {
+        "transactionId": "T7401",
+        "customerId": "C001",
+        "type": "withdrawl",
+        "amount": 3000,
+        "date": "2025-08-08",
+        "time": "12:02:41.794375"
+    }
+]
